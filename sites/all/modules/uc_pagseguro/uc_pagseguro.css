@@ -1,0 +1,10 @@
+
+#edit-panes-payment-payment-method-pagseguro-wrapper {
+	background: transparent url(pagseguro.gif) no-repeat scroll 0px 20px;
+	height: 65px;
+}
+
+table#review-pagseguro {
+	display: inline;
+	padding-top: 1em;
+}
